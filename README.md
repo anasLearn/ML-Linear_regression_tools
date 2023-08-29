@@ -1,6 +1,6 @@
 # Machine Learning: Linear Regression
 
-This repo is based on an example in the course [**Machine Learning**](https://www.coursera.org/learn/machine-learning) from the learning platfrom [**Coursera**](https://www.coursera.org/)
+This repo is based on an example in the course [**Machine Learning**](https://www.coursera.org/learn/machine-learning-course) from the learning platfrom [**Coursera**](https://www.coursera.org/)
 
 The code is developed with **Matlab**
 
